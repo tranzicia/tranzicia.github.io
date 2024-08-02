@@ -1,6 +1,5 @@
 # Operácie pre transfem ľudí
 
-​
 ## Orchiektómia
 
 [Medicentrum spol sro.](https://www.medicentrum.sk/){.pixel-button}
@@ -10,7 +9,7 @@
 &emsp;MM Hodžu 10, 96001 Zvolen  
 &emsp;cez poisťovňu, 100E výber operatéra  
 
-​* * *
+* * *
 
 [MUDr. Martin Hrivňák](https://andrologia.sk/){.pixel-button}
 
@@ -128,7 +127,6 @@ Túto operáciu možno absolvovať iba na priamu platbu, zákrok nie je hradený
 &emsp;02/48 252 300 - recepcia​​  
 &emsp;​Podpíše sa informovaný súhlas o zákroku,lekár nevyžaduje potvrdenie o diagnóze F64.0​.
 
-​​
 ## Odstránenie Ohryzku
 
 Hradec Kralové 

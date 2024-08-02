@@ -24,7 +24,7 @@ Ak máš menej ako 18 rokov, so súhlasom rodiča sa dá dostať pomoci v [CZ](h
 
 [Ak potrebuješ operáciu](grs.html){.pixel-button}
 
-[Ak chceš zmeniť hlas, zbaviť sa chĺpkov, terapiu, atď](ine.html){.pixel-button}
+[Ak chceš zmeniť hlas, zbaviť sa chĺpkov, iné](ine.html){.pixel-button}
 
 [Chceš na tejto stránke niečo zmeniť](kontakt.html){.pixel-button}
 </center>
