@@ -98,9 +98,7 @@ Ak niekto od vás vyžaduje kastráciu robí to na základe vlastného presvedč
 &emsp;**Bratislava**  
 &emsp;Súkromná klinika, pravdepodobne budeš musieť platiť celoročnú starostlivosť. V rámci celoročnej starostlivosti by zákrok už nemal vyžadovať ďalšiu platbu
 
-
-​​* * *
-
+* * *
 
 [FN Gynekologicko-pôrodnícka klinika](https://fntt.sk/kliniky/gynekologicko-porodnicka-klinika/){.pixel-button}
 
@@ -120,6 +118,7 @@ Ak niekto od vás vyžaduje kastráciu robí to na základe vlastného presvedč
 &emsp;0911 230 664  
 
 ## Bottom surgery
+
 Na Slovensku nie je žiadny lekár, ktorý by túto operáciu vykonával. V Čechách táto možnosť je, ale výsledky nie sú lichotivé.
 Je možnosť absolvovať túto operáciu v Nemecku a mať ju čiastočne preplatenú cez poisťovňu. Stojí to cca. 35,000 Eur. 
 
@@ -132,6 +131,7 @@ Je možnosť absolvovať túto operáciu v Nemecku a mať ju čiastočne preplat
 - ​Dr. Bernhard Liedl - Chirurgische Klinik München-Bogenhausen - München, Germany
 
 **​SRBSKO**  
+
 - Dr. Djordjevic z Belehradu. 
 
 * * *

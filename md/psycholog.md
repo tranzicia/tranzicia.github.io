@@ -1,7 +1,7 @@
 # Psychodiagnostika
 
 ## Ako to prebieha
-Prístup sa líši. Vždy je anamnéza (popis života a čo viedlo k rozhodnutiu tranzície). Väčšinou sa kreslia postavy, a robí Rozschach test. Na konci treba mať papier s výsledkom, kde je napísané, že psychológ odporúča tranzíciu.
+Prístup sa líši. Takmer vždy sa robí anamnéza (popis života a čo viedlo k rozhodnutiu tranzície). Väčšinou je vo vyšetrení kreslenie postáv a Rozschach test. Na konci vyšetrenia treba mať papier s výsledkom, kde je napísané, že psychológ odporúča tranzíciu.
  
 Objednávacia doba sa pohybuje v mesiacoch.
 
