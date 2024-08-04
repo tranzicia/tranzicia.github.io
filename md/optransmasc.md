@@ -89,6 +89,7 @@ V nemocnici stráviš 1 - 3 dni a po operácii sa zotavíš do 2 týždňov, cvi
 &emsp;+421 948 882 882  
 
 ## Hysterektómia (sterilizácia)
+
 Sterilizácia nebola nikdy právne vyžadovaná, bola vyžadovaná iba niektorými lekármi, lebo inak neboli alebo ešte stále nie sú ochotní/é vydať posudok pre matriku.
 
 Ak niekto od vás vyžaduje kastráciu robí to na základe vlastného presvedčenia, nie štandardných postupov platných na Slovensku.
