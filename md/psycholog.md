@@ -27,7 +27,7 @@ Cena u súkromných poskytovateľov sa bude pohybovať od 150 do 300eur.
 * * *
 
 [Mgr. Zuzana Adamčíková](https://psycholog-ba.sk/){.pixel-button-smol}  
-
+&emsp;Momentálne na materskej dovolenke
 &emsp;**Bratislava**  
 &emsp;Kutuzovova 17  
 &emsp;2. poschodie, č. dverí 11  
@@ -44,7 +44,7 @@ Cena u súkromných poskytovateľov sa bude pohybovať od 150 do 300eur.
 
 * * *
 
-[Psycheeduca](psycheeduca.sk){.pixel-button-smol}  
+[Psycheeduca](https://www.psycheeduca.sk){.pixel-button-smol}  
 
 &emsp;**Pobočky v Bratislave, Senci, Myjave, Stupave**  
 &emsp;niekoľko sedení, veľký gatekeeping, nepríjemné otázky na sexualitu  
@@ -72,7 +72,7 @@ Cena u súkromných poskytovateľov sa bude pohybovať od 150 do 300eur.
 
 * * *
 ​
-[Mgr. Oľga Tomišová](tomisova.olga@gmail.com){.pixel-button-smol}  
+[Mgr. Oľga Tomišová](https://www.zzz.sk/zariadenie/3034-psychologicka-ambulancia-mgr-olga-tomisova){.pixel-button-smol}  
 
 &emsp;**Malacky**  
 &emsp;cez poisťovňu  
@@ -91,7 +91,7 @@ Cena u súkromných poskytovateľov sa bude pohybovať od 150 do 300eur.
 
 * * *
 
-[Mgr. Trošokové](https://www.nemocnicapp.sk/ambulancie-oddelenia/ambulancie/ambulancia-klinickej-psychologie){.pixel-button-smol}  
+[Mgr. Alexandra a Mgr. Katarína Trošoková](https://www.nemocnicapp.sk/ambulancie-oddelenia/ambulancie/ambulancia-klinickej-psychologie){.pixel-button-smol}  
 
 &emsp;**Poprad**  
 &emsp;pavilón kožného stacionára, 1. poschodie  

@@ -11,5 +11,5 @@
 
 [Genetika](genetika.html){.pixel-button}
 
-[Endokrynológia](endo.html){.pixel-button}
+[Endokrinológia](endo.html){.pixel-button}
 </center>

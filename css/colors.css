@@ -56,9 +56,9 @@
 }
 
 body {
-  opacity: 0.9;
-  font-family: Optima, Candara, 'Noto Sans', source-sans-pro, sans-serif;
-  background-color: #cbdbfc;
+  opacity: 0.95;
+  font-family: Optima, 'Noto Sans', source-sans-pro, sans-serif;
+  background-color: #dee9ff;
   color: #2b2b2b;
   line-height: 1.4;
   margin: 0;
@@ -132,9 +132,9 @@ h4 {
 
 
 main {
-  font-family: Optima, Candara, 'Noto Sans', source-sans-pro, sans-serif; 
+  font-family: Optima, 'Noto Sans', source-sans-pro, sans-serif; 
   padding: 1em;
-  background-color: #f4c2e3;
+  background-color: #ffdbf3;
   color: #221d1d;
   border-style: solid;
   border-width: 3px;

@@ -20,6 +20,7 @@ Vo všeobecnosti možno očakaváť:
 - injekčný testosterón [Sustanon](https://www.adc.sk/databazy/produkty/pil/sustanon-250-337824.html) alebo [Nebido](https://www.adc.sk/databazy/produkty/pil/nebido-1000-mg-4-ml-injekcny-roztok-391308.html)
 
 ## Injekcie
+
 Injekcie sa pichajú do svalu (intramuskulárne). Pichne ti ich buď sestrička na endokrynológii, tvoj obvodný lekár, alebo ty sám.
 
 Injekcie sú najbezpečnejší spôsob, ako pre transfem ľudí dostať hormóny do tela, keďže nezaťažujú pečeň. Estrogén sa berie približne raz za mesiac. Testosterón raz za 3 týždne (Sustanon), alebo raz za 10-14 týždňov (Nebido).

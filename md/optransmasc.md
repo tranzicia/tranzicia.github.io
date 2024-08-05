@@ -22,7 +22,7 @@ V nemocnici stráviš 1 - 3 dni a po operácii sa zotavíš do 2 týždňov, cvi
 
 * * *
 
-[MUDr. Lukáš Šimko](https://www.lukassimko.sk/){.pixel-button}
+[MUDr. Lukáš Šimko](https://www.lukassimko.sk){.pixel-button}
 
 &emsp;**Bratislava**  
 &emsp;​mudrsimko@gmail.com  
@@ -35,7 +35,7 @@ V nemocnici stráviš 1 - 3 dni a po operácii sa zotavíš do 2 týždňov, cvi
 &emsp;MUDr. Šimko odkazuje na nemocnicu Ružinov, ak to chceš cez poisťovňu  
 
 * * *
-​
+
 [MUDr. Ivan Justan](https://www.justan.cz/){.pixel-button}
 
 &emsp;**Česká republika - Brno**  
@@ -46,7 +46,7 @@ V nemocnici stráviš 1 - 3 dni a po operácii sa zotavíš do 2 týždňov, cvi
 
 * * *
 
-[MUDr. Jozef Fábry](www.posoniumclinic.sk){.pixel-button}
+[MUDr. Jozef Fábry](https://www.posoniumclinic.sk){.pixel-button}
 
 &emsp;**Bratislava**  
 &emsp;na priamu platbu  
@@ -55,7 +55,7 @@ V nemocnici stráviš 1 - 3 dni a po operácii sa zotavíš do 2 týždňov, cvi
 &emsp;0903 435 728  
 
 * * *
-​
+
 [MUDr. Juraj Gajdoš](https://www.envyclinic.sk/sk/o-klinike/odbornici-a-personal/juraj-gajdos-mba){.pixel-button}
 
 &emsp;**Košice**  
@@ -72,7 +72,7 @@ V nemocnici stráviš 1 - 3 dni a po operácii sa zotavíš do 2 týždňov, cvi
 
 * * *
 
-[MUDr. Juraj Paliatka](​https://operaclinic.sk/){.pixel-button}
+[MUDr. Juraj Paliatka](https://www.​operaclinic.sk/){.pixel-button}
 
 &emsp;**Bratislava**  
 &emsp;na priamu platbu  
@@ -137,8 +137,4 @@ Je možnosť absolvovať túto operáciu v Nemecku a mať ju čiastočne preplat
 
 * * *
 
-Ak ťa zaujíma téma bottom surgery a zároveň hovoríš plynule po anglicky, odporúčan sledovať Finna, ktorý hovorí a píše o svojích skúsenostiach z UK.
-
-[https://www.instagram.com/finntheinfinncible/]
-
-[https://finlaygames.com/]
+Ak ťa zaujíma téma bottom surgery a zároveň hovoríš plynule po anglicky, môžeš skúsiť sledovať [https://finlaygames.com/](Finna), ktorý hovorí a píše o svojích skúsenostiach z UK. [https://www.instagram.com/finntheinfinncible/](Finnov Instagram)

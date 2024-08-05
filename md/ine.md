@@ -26,6 +26,8 @@ Mgr. Klára Jačková DiS - venuje sa aj špeciálne feminizácii hlasu
 
 - [The Art of Voice Feminization Series](https://www.youtube.com/watch?v=BfCS01MkbIY&list=PLYJkVI7LLpknvBww07jnsxbz-_Lkynsry)
 
+- [MTF Trans Voice Tutorials](https://youtube.com/playlist?list=PLkZ-3sMGEmDwlD5zNgEtWJwz8WDt6H8OZ&si=C_bF4fXPLnq9uYx8)
+
 **Discord servery**
 
 - TransVoice
