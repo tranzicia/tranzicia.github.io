@@ -5,7 +5,7 @@ Na úvodnom vyšetrení vám psychiatrička položí niekoľko otázok ohľadne 
 
 ## Lekári
 
-[MUDr. Katarína Gallová](https://www.zlatestranky.sk/firmy/Senec/H1015164/PSYCHOMED,+s.r.o.+-+GALLOV%C3%81+Katar%C3%ADna+MUDr./){.pixel-button-smol}  
+[MUDr. Katarína Gallová](https://mudr-katarina-gallova.zdravotniregistr.cz/?msgid=dascd){.pixel-button-smol}  
 
 &emsp;**Senec**  
 &emsp;Mierové námestie 6  
