@@ -35,7 +35,7 @@ Na úvodnom vyšetrení vám psychiatrička položí niekoľko otázok ohľadne 
 
 * * *
 
-[Klinika Calma - MUDr. Veronika Režnáková](https://klinikacalma.sk/o-nas/nas-tim/)
+[Klinika Calma - MUDr. Veronika Režnáková](https://klinikacalma.sk/o-nas/nas-tim/){.pixel-button-smol}
 
 &emsp;**Bratislava**  
 &emsp;Klinika Kalma  

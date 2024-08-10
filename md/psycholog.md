@@ -1,11 +1,11 @@
 # Psychodiagnostika
 
 ## Ako to prebieha
-Prístup sa líši. Takmer vždy sa robí anamnéza (popis života a čo viedlo k rozhodnutiu tranzície). Väčšinou je vo vyšetrení kreslenie postáv a Rozschach test. Na konci vyšetrenia treba mať papier s výsledkom, kde je napísané, že psychológ odporúča tranzíciu.
+Prístup sa líši. Takmer vždy sa robí anamnéza (popis života a čo viedlo k rozhodnutiu podstúpiť tranzíciu). Väčšinou je vo vyšetrení kreslenie postáv a Rorschach test. Na konci vyšetrenia treba mať papier s výsledkom, kde je napísané, že psychológ odporúča tranzíciu.
  
 Objednávacia doba sa pohybuje v mesiacoch.
 
-Cena u súkromných poskytovateľov sa bude pohybovať od 150 do 300eur.  
+Cena u súkromných poskytovateľov sa pohybuje od 150 do 300eur.
 
 ## Poskytovatelia
 
@@ -21,7 +21,7 @@ Cena u súkromných poskytovateľov sa bude pohybovať od 150 do 300eur.
 [PhDr. Ľubica Bradáčová](https://www.unb.sk/psychologicka-ambulancia-denny-stacionar-podunajske-biskupice/){.pixel-button-smol}  
 
 &emsp;**Bratislava**  
-&emsp;odporúča k nej sexuologička Mudr. Jamborová, ak nemáš Mudr. Jamborovú nedá sa tam ísť na psychodiagnostiku spojenú s tranzíciou  
+&emsp;odporúča k nej sexuologička Mudr. Jamborová, ak nemáš Mudr. Jamborovú, nedá sa tam ísť na psychodiagnostiku spojenú s tranzíciou
 &emsp;0905 694 754  
 
 * * *

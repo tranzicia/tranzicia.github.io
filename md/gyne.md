@@ -9,7 +9,7 @@
 &emsp;Fatranská 5  
 &emsp;maria.kubalova@procare.sk  
 &emsp;0907 888 999  
-&emsp;V call centre netreba nič vysvetľovať, stačí sa objednať ku pani doktorke na gynekologické vyšetrenie. Ak niekto hľadá dlhodobú gynekologickú starostlivosť, je to preplácané poisťovňou. V prípade jednorázového vyšetrenia je to na priamu platbu.  
+&emsp;V call centre netreba nič vysvetľovať, stačí sa objednať ku pani doktorke na gynekologické vyšetrenie. Ak niekto hľadá dlhodobú gynekologickú starostlivosť, je to preplácané poisťovňou. V prípade jednorazového vyšetrenia je to na priamu platbu.
 
 * * *
 

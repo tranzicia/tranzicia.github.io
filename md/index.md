@@ -1,6 +1,6 @@
 # Tranzícia na Slovensku
 
-Na tejto stránke nájdeš informácie o procese medicínskej a právnej tranzície na Slovensku a kontakty na lekárov schopných poskytnúť pomoc. Je pokračovaním zaniknutého projektu tranzicia.org odkiaľ boli s láskavým súhlasom autora prevzaté informácie.
+Na tejto stránke nájdeš informácie o procese medicínskej a právnej tranzície na Slovensku a kontakty na lekárov schopných poskytnúť pomoc. Je pokračovaním zaniknutého projektu tranzicia.org, odkiaľ boli s láskavým súhlasom autora prevzaté informácie.
 
 Proces medicínskej a právnej tranzície na Slovensku je možný po 18 rokoch:
 
@@ -10,15 +10,15 @@ Proces medicínskej a právnej tranzície na Slovensku je možný po 18 rokoch:
 4. [Genetické](genetika.html) vyšetrenie chromozómov
 5. [Endokrynológické](endo.html) vyšetrenie 
 6. S diagnózou F64.0 a po ostatných vyšetreniach - obdržanie hormonálnej substitučnej terapie ([HRT](hrt.html))
-7. Obdržanie výmenného lístka od psychiatra na želané [operácie](grs.html) (ak je želané)
-8. Obdržanie dokladu od lekára (väčšinou psychiater) na [zmenu mena a pohlavia](doklady.html) na matriku
+7. Obdržanie výmenného lístka od psychiatra na želané [operácie](grs.html) (ak sú želané)
+8. Obdržanie dokladu od lekára (väčšinou psychiater) na [zmenu mena a pohlavia](doklady.html) pre matriku
 
-Ak máš menej ako 18 rokov, so súhlasom rodiča sa dá dostať pomoci v [CZ](https://jsemtrans.cz/navod/){.pixel-button-smol}
+Ak máš menej ako 18 rokov, so súhlasom rodiča sa dá dostať pomoc v [CZ](https://jsemtrans.cz/navod/){.pixel-button-smol}
 
 <center>
 [Ak ťa zaujíma hormonálna terapia](hrt.html){.pixel-button}
 
-[Potrebuješ kontakty na lekárov](lekari.html){.pixel-button}
+[Ak Potrebuješ kontakty na lekárov](lekari.html){.pixel-button}
 
 [Ak ťa zaujíma zmena dokladov](doklady.html){.pixel-button}
 
@@ -26,5 +26,5 @@ Ak máš menej ako 18 rokov, so súhlasom rodiča sa dá dostať pomoci v [CZ](h
 
 [Ak chceš zmeniť hlas, zbaviť sa chĺpkov, iné](ine.html){.pixel-button}
 
-[Chceš na tejto stránke niečo zmeniť](kontakt.html){.pixel-button}
+[Ak chceš na tejto stránke niečo zmeniť](kontakt.html){.pixel-button}
 </center>

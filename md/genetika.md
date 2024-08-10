@@ -1,7 +1,7 @@
 # Genetika
 
 ## Ako to prebieha
-Priprav sa na veľa otázok o tvojich chorobách, operáciach a o tvojej rodine. Kreslí sa rodokmeň rodiny s ich chorobami. Potom zoberú krv a to je všetko. Na výsledky sa čaká jeden až dva mesiace (väčšinou dva). Objednanie trvá mesiace.
+Priprav sa na veľa otázok o tvojich chorobách, operáciách a o tvojej rodine. Kreslí sa rodokmeň rodiny s ich chorobami. Potom zoberú krv a to je všetko. Na výsledky sa čaká jeden až dva mesiace (väčšinou dva). Objednanie trvá mesiace.
 
 ## Poskytovatelia
 

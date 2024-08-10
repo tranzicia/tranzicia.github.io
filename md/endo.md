@@ -1,7 +1,7 @@
 # Endokrinológia
 
 ## Ako to prebieha
-V rámci diagnostiky treba klasické endokrinologické vyšetrenie, ktoré môže vykonať hociktorý endokrinológ. Vezme sa krv, urobí sa USG štítnej žlazy, rozhovor o zdravotnom stave.
+V rámci diagnostiky treba klasické endokrinologické vyšetrenie, ktoré môže vykonať hociktorý endokrinológ. Vezme sa krv, urobí sa USG štítnej žľazy, rozhovor o zdravotnom stave.
 
 Ak preferuješ, môžeš sa rovno objednať k tým lekárom, ktorí nastavujú hormonálnu liečbu.
 
@@ -16,7 +16,7 @@ Ak užívaš hormonálnu antikoncepciu, poraď sa pri objednávaní na vyšetren
 &emsp;EndoHep s.r.o.  
 &emsp;endokrinologia.raca@gmail.com   
 &emsp;Čakacia doba na termín cca. 3 mesiace  
-&emsp;Pri prvom objednávaní, treba ihneď spomenúť, že si trans a riešiš začatie hormonálnej liečby. Lekárka všeobecne neberie nových pacientov pokiaľ nie sú z rače, avšak trans ludia sú výnimka. Ak užívaš hormonálnu antikoncepciu, poraď sa pri objednávaní na vyšetrenie, že či ju máš vysadiť a kedy.  
+&emsp;Pri prvom objednávaní treba ihneď spomenúť, že si transrodový človek a riešiš začatie hormonálnej liečby. Lekárka všeobecne neberie nových pacientov pokiaľ nie sú z Rače, avšak transrodoví ľudia sú výnimka. Ak užívaš hormonálnu antikoncepciu, poraď sa pri objednávaní na vyšetrenie, že či ju máš vysadiť a kedy.
 
 * * *
 
@@ -26,7 +26,7 @@ Ak užívaš hormonálnu antikoncepciu, poraď sa pri objednávaní na vyšetren
 &emsp;Švabinského 15 a 17  
 &emsp;Endokrinológia s.r.o.  
 &emsp;sestricka@endokrinologiasro.sk  
-&emsp;Čakacia doba na termín 7-8 mesiacov. Poplatok za každé stretnutie, ktoré je dohodnuté na konkrétny čas (10eur)
+&emsp;Čakacia doba na termín 7-8 mesiacov. Poplatok za každé stretnutie, ktoré je dohodnuté na konkrétny čas (10 eur)
 
 * * *
 

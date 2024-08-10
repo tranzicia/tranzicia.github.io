@@ -2,10 +2,10 @@
 
 ## Ako sa k nej dostanem
 
-[Postup tranzície je tu](index.html). Po splnení podmienok na psychiatrii dostaneš lístok na endokrynológiu. Ak máš všetky potrebné vyšetrenia (psychiatria, psychodiagnostika, genetika, urológia/gynekológia, úvodné endo vyšetrenie) predpíšu ti HRT. Treba rátať s pravidelnými kontrolami každého pol roka až rok. Hormóny treba pravidelne užívať na želané zmeny. Väčšina zmien na estrogéne nie je trvalá, takže ak ich chceš zachovať, užívaš hormóny do konca života.
+[Postup tranzície je tu](index.html). Po splnení podmienok na psychiatrii dostaneš lístok na endokrinológiu. Ak máš všetky potrebné vyšetrenia (psychiatria, psychodiagnostika, genetika, urológia/gynekológia, úvodné endo vyšetrenie), predpíšu ti HRT. Treba rátať s pravidelnými kontrolami každého pol roka až rok. Hormóny treba pravidelne, aby sa dostavili želané zmeny. Väčšina zmien na estrogéne nie je trvalá, takže ak ich chceš zachovať, užívaš hormóny do konca života.
 
 ## Čo na Slovensku dostanem?
-Vo všeobecnosti možno očakaváť:
+Vo všeobecnosti možno očakávať:
 
 ### Transfem
 
@@ -21,7 +21,7 @@ Vo všeobecnosti možno očakaváť:
 
 ## Injekcie
 
-Injekcie sa pichajú do svalu (intramuskulárne). Pichne ti ich buď sestrička na endokrynológii, tvoj obvodný lekár, alebo ty sám.
+Injekcie sa pichajú do svalu (intramuskulárne). Pichne ti ich buď sestrička na endokrinológii, tvoj obvodný lekár, alebo ty sám.
 
 Injekcie sú najbezpečnejší spôsob, ako pre transfem ľudí dostať hormóny do tela, keďže nezaťažujú pečeň. Estrogén sa berie približne raz za mesiac. Testosterón raz za 3 týždne (Sustanon), alebo raz za 10-14 týždňov (Nebido).
 

@@ -7,7 +7,7 @@ Cena okolo 2000 - 2500 Eur
 
 V nemocnici stráviš 1 - 3 dni a po operácii sa zotavíš do 2 týždňov, cvičiť nebudeš môcť cca 1-2 mesiace. Na klinikách, kde sa vykonávajú jednodňové chirurgické zákroky ako aj top surgery, je limit BMI 40, ak máš veľkú nadváhu bude ti odporučené najprv schudnúť alebo sa obrátiť na nejakú nemocnicu, kde majú JIS /jednotka inentzívnej starostlivosti/
 
-Čo sa týka nadváhy je to problém pre anesteziológa a nie pre plastického chirurga, čiže pri anstéze je BMI nad 40 rizikové.
+Čo sa týka nadváhy, je to problém pre anesteziológa a nie pre plastického chirurga, čiže pri anstéze je BMI nad 40 rizikové.
 
 ## Zoznam chirurgických ambulancií
 
@@ -42,7 +42,7 @@ V nemocnici stráviš 1 - 3 dni a po operácii sa zotavíš do 2 týždňov, cvi
 &emsp;na priamu platbu  
 &emsp;+420 777 136 908  
 &emsp;​info@justan.cz  
-&emsp; U tohto lekára môžeš absolvovať top surgery aj vo veku 16-18 rokov, nemá žiadne špeciálne podmienky. V českej FB FTM skupine, kde sú dostupné informácie aj s fotkami je uvedené, že na tohto lekára sa hromadia negatívne spätné väzby a už nie je odporúčaný. Málo komunikuje, nedáva info o tom ako sa starať o seba po operácii, neodpisuje na emaily, alebo veľmi málo  
+&emsp; U tohto lekára môžeš absolvovať top surgery aj vo veku 16-18 rokov, nemá žiadne špeciálne podmienky. V českej FB FTM skupine, kde sú dostupné informácie aj s fotkami je uvedené, že na tohto lekára sa hromadia negatívne spätné väzby a už nie je odporúčaný. Málo komunikuje, nedáva info o tom, ako sa starať o seba po operácii, neodpisuje na emaily, alebo veľmi málo.
 
 * * *
 
@@ -92,7 +92,7 @@ V nemocnici stráviš 1 - 3 dni a po operácii sa zotavíš do 2 týždňov, cvi
 
 Sterilizácia nebola nikdy právne vyžadovaná, bola vyžadovaná iba niektorými lekármi, lebo inak neboli alebo ešte stále nie sú ochotní/é vydať posudok pre matriku.
 
-Ak niekto od vás vyžaduje kastráciu robí to na základe vlastného presvedčenia, nie štandardných postupov platných na Slovensku.
+Ak niekto od vás vyžaduje kastráciu, robí to na základe vlastného presvedčenia, nie štandardných postupov platných na Slovensku.
 
 [Sanatórium KOCH](https://www.sanatoriumkoch.sk/){.pixel-button}
 

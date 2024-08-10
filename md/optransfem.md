@@ -43,8 +43,8 @@ Na Slovensku sa táto operácia nevykonáva.
 Informácie v angličtine o operáciach vo svete, vrátane CZ: [trans surgeries subreddit](https://www.reddit.com/r/TransSurgeriesWiki/wiki/index/)
 
 ### CZ
-Operácie v Čechách majú zlú povesť, ale niektorí ľudia sú spokojní. Operácia s vykonáva na dva krát. Je možné preplatenie poisťovňou.
-Priebeh operácie a skúsenosti opisujú niektoré trans ženy na youtube kanáli [V Tranzu, napríklad tu.](https://www.youtube.com/watch?v=1UjE5pKEGro).
+Operácie v Čechách majú zlú povesť, ale niektorí ľudia sú spokojní. Operácia s vykonáva na dvakrát. Je možné preplatenie poisťovňou.
+Priebeh operácie a skúsenosti opisujú niektoré trans ženy na youtube kanáli V Tranzu, [napríklad tu.](https://www.youtube.com/watch?v=1UjE5pKEGro).
 
 Priebeh:
 - konzultácia u operatéra v ČR
@@ -68,7 +68,7 @@ V prípade, že si vyberieš inú krajinu ako ČR, poisťovňa prepláca zákrok
 #### Srbsko
 Dr. Djordjevic, Belehrad 10.000 - 20.000 Eur   
 metódy - penile inversion vaginoplasty, sigmoid colon vaginoplasty, peritoneal pull-through vaginoplasty  
-Najprv si zaplatíš zákrok, a dodatočne môže preplatiť poisťovňa. V poisťovni treba dokazovať, že prečo si volíš operáciu mimo EÚ. Pri dodatočnom preplácaní, nie je istota, že poisťovňa bude súhlasiť.
+Najprv si zaplatíš zákrok, a dodatočne môže preplatiť poisťovňa. V poisťovni treba dokazovať, že prečo si volíš operáciu mimo EÚ. Pri dodatočnom preplácaní nie je istota, že poisťovňa bude súhlasiť.
 
 #### Nemecko
 
@@ -108,7 +108,7 @@ Túto operáciu možno absolvovať iba na priamu platbu, zákrok nie je hradený
 
 - odporúčanie od sexuológa
 
-- na hormonálnej terapii aspoň polroka
+- na hormonálnej terapii aspoň pol roka
 
 ​
 [MUDr. Dušan Červeň](https://aesthetica.sk/ponuka-a-cennik/dusan-cerven/){.pixel-button}
@@ -124,7 +124,7 @@ Túto operáciu možno absolvovať iba na priamu platbu, zákrok nie je hradený
 &emsp;+421 903 666 555 - lekár  
 &emsp;+421 917 711 111 - ambulancia  
 &emsp;02/48 252 300 - recepcia​​  
-&emsp;​Podpíše sa informovaný súhlas o zákroku,lekár nevyžaduje potvrdenie o diagnóze F64.0​.
+&emsp;​Podpíše sa informovaný súhlas o zákroku, lekár nevyžaduje potvrdenie o diagnóze F64.0​.
 
 ## Odstránenie Ohryzku
 

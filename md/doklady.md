@@ -2,18 +2,18 @@
 
 ## Zmena mena na neutrálne
 
-Počas tranzície si môžeš zmeniť meno na neutrálne. Matriky zisťujú či je meno neutrálne podľa stránky babynames.com (matrikárka si to naozaj v kancelárií na tej stránke priamo overí). Zmena na neutrálne meno nie je počas tranzície nijako vyžadovaná.
+Počas tranzície si môžeš zmeniť meno na neutrálne. Matriky zisťujú či je meno neutrálne podľa stránky babynames.com (matrikárka si to naozaj v kancelárií na tej stránke priamo overí). Zmena na neutrálne meno nie je počas tranzície vyžadovaná.
 
 Úkon stojí 140eur. Polovicu, ak ho robíš cez elektronické podanie. 
 
-Psychiatrička ti vystaví papier s žiadosťou, aby tento výkon urobili, ten si budú na matrike pýtať.
+Psychiatrička ti vystaví papier s žiadosťou, aby tento výkon urobili, ten si budú na úrade pýtať.
 
 Ak chceš využiť túto možnosť, musíš mať aktivovaný občiansky preukaz s čipom a príslušným PUK kódom, čítačku kariet (dá sa kúpiť v elektre) a prístup do slovensko.sk. [Link na žiadosť](https://portal.minv.sk/wps/wcm/connect/sk/site/main/zivotne-situacie/matrika-zivotna-udalost/ziadost-zmena-mena-priezviska-ine+zmeny-opravy/podanie-ziadosti-o-zmenu-mena-zmenu-rodneho-priezviska/).
 
 Ako dôvod treba uviesť, že u osoby prebieha zmena pohlavia.
-Ak vybavuješ podanie osobne, treba zájsť na okresný úrad (podľa súčasného trvalého bydliska!) podať žiadosť o zmenu mena a po jej schválení ísť na matriku (podľa súčasného trvalého bydliska) zmeniť meno. Na matrike si od teba vypýtajú starý rodný list, ktorý skartujú.
+Ak vybavuješ podanie osobne, treba zájsť na [okresný úrad (podľa súčasného trvalého bydliska!)](https://www.minv.sk/?zmena-mena-alebo-priezviska-ouke) podať žiadosť o zmenu mena a po jej schválení ísť na matriku (podľa súčasného trvalého bydliska) zmeniť meno. Na matrike si od teba vypýtajú starý rodný list, ktorý skartujú.
 
-Po schválení a vykonaní zmeny si môžeš prísť po rodný list na ktorúkoľvek matriku (5eur) a s ním podať žiadosť o nový občiansky (7eur).
+Po schválení a vykonaní zmeny si môžeš prísť po rodný list na ktorúkoľvek matriku (5 eur) a s ním podať žiadosť o nový občiansky (7 eur).
 
 ## Zmena mena a pohlavia
 
