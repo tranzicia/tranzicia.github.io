@@ -1,0 +1,142 @@
+
+.pixel-button-smol {
+  display: inline-block;
+  padding: 10px 20px;
+  font-family: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, 'DejaVu Sans Mono', monospace; 
+  font-weight: bold;
+  font-size: 100%;
+  text-decoration: none;
+  color: #222034;
+  background-color: #ffffff;
+  border: 3px solid #222034;
+  box-shadow: none;
+  transition: box-shadow 0.2s, transform 0.2s;
+}
+
+.pixel-button-smol:hover {
+  box-shadow: 5px 5px 0 #555555;
+  transform: translate(-5px, -5px);
+}
+
+.pixel-button {
+  display: inline-block;
+  padding: 10px 20px;
+  font-family: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, 'DejaVu Sans Mono', monospace; 
+  font-weight: bold;
+  font-size: 100%;
+  text-decoration: none;
+  color: #222034;
+  background-color: #ffffff;
+  border: 3px solid #222034;
+  box-shadow: none;
+  transition: box-shadow 0.2s, transform 0.2s;
+  width: 400px; 
+}
+
+.pixel-button:hover {
+  box-shadow: 5px 5px 0 #555555;
+  transform: translate(-5px, -5px);
+}
+
+
+
+/* Media query for smaller screens */
+@media (max-width: 600px) {
+  .pixel-button {
+      width: 300px; /* Reduce width for medium screens */
+      font-size: 90%;
+  }
+}
+
+@media (max-width: 400px) {
+  .pixel-button {
+      width: 200px; /* Reduce width for small screens */
+      font-size: 80%;
+  }
+}
+
+body {
+  opacity: 0.95;
+  font-family: Optima, 'Noto Sans', source-sans-pro, sans-serif;
+  background-color: #dee9ff;
+  color: #2b2b2b;
+  line-height: 1.4;
+  margin: 0;
+  padding: 0;
+  margin: auto;
+  background-image: url("butterflies.png");
+}
+
+@media only screen and (min-width: 800px) {
+  body {
+    max-width: 800px;
+  }
+}
+
+a {
+  color: #27258b;
+  text-decoration: none;
+}
+
+.container {
+  margin-left: 20px;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+header, nav, footer {
+  font-family: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, 'DejaVu Sans Mono', monospace; 
+  font-weight: bold;
+  background-color: #d77bba;
+  padding: 1em;
+}
+
+footer {
+  border-style: solid;
+  border-width: 3px;
+  border-top-width: 0px;
+  border-color: #222034;
+}
+
+footer p {
+  font-size: 80%;
+}
+
+header h1, footer p {
+  margin: 0;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, 'DejaVu Sans Mono', monospace; 
+}
+
+h1 {
+  
+  margin-top: 0px;
+  font-size: 180%;
+}
+
+h2 {
+  font-size: 160%;
+}
+
+h3 {
+  font-size: 140%;
+}
+
+h4 {
+  font-size: 120%;
+}
+
+
+main {
+  font-family: Optima, 'Noto Sans', source-sans-pro, sans-serif; 
+  padding: 1em;
+  background-color: #ffdbf3;
+  color: #221d1d;
+  border-style: solid;
+  border-width: 3px;
+  border-color: #222034;
+}
