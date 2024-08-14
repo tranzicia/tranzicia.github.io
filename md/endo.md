@@ -90,3 +90,12 @@ Ak užívaš hormonálnu antikoncepciu, poraď sa pri objednávaní na vyšetren
 &emsp;Spišské nám. 4  
 &emsp;endokrinologia@centrum.sk  
 &emsp;0915 714 419  
+
+* * *
+
+[MUDr. Zuzana Jančúchová](https://endiaz.webnode.sk/){.pixel-button-smol}  
+
+&emsp;**Žilina**   
+&emsp;M.R.Štefánika 822/11  
+&emsp;041/ 40 000 50 volať od 9:00 do 11:00  
+&emsp;jancuchova.ambulancia@gmail.com  
