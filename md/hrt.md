@@ -23,6 +23,6 @@ Vo všeobecnosti možno očakávať:
 
 Injekcie sa pichajú do svalu (intramuskulárne). Pichne ti ich buď sestrička na endokrinológii, tvoj obvodný lekár, alebo ty sám.
 
-Injekcie sú najbezpečnejší spôsob, ako pre transfem ľudí dostať hormóny do tela, keďže nezaťažujú pečeň. Estrogén sa berie približne raz za mesiac. Testosterón raz za 3 týždne (Sustanon), alebo raz za 10-14 týždňov (Nebido).
+Injekcie sú najbezpečnejší spôsob, ako pre transfem ľudí dostať hormóny do tela, keďže nezaťažujú pečeň. Estrogén sa berie približne raz za týždeň. Testosterón raz za 3 týždne (Sustanon), alebo raz za 10-14 týždňov (Nebido).
 
 [Tu si môžeš pozrieť návod ako injekciu aplikovať](https://www.youtube.com/watch?v=e0wDPZ0D9Wk). Pri správnej technike necítiť žiadnu bolesť.
