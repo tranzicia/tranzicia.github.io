@@ -57,7 +57,7 @@
 
 body {
   opacity: 0.95;
-  font-family: Optima, 'Noto Sans', source-sans-pro, sans-serif;
+  font-family: 'Noto Sans', source-sans-pro, sans-serif;
   background-color: #dee9ff;
   color: #2b2b2b;
   line-height: 1.4;
@@ -132,7 +132,7 @@ h4 {
 
 
 main {
-  font-family: Optima, 'Noto Sans', source-sans-pro, sans-serif; 
+  font-family: 'Noto Sans', source-sans-pro, sans-serif; 
   padding: 1em;
   background-color: #ffdbf3;
   color: #221d1d;
