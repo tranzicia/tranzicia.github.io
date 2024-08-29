@@ -1,4 +1,9 @@
 #!/bin/bash
+today=`date +"%d.%m.%Y"`
+echo "</article> </main> <footer> \
+<p>* updated $today * local trans smolweb * <a>tranziciask@protonmail.com</a> *</p>\
+</footer>" > footer.html
+
 for mdfile in md/*.md; do
     filename=$(basename -- "$mdfile")
     base_name="${filename%.md}"

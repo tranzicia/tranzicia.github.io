@@ -17,7 +17,7 @@ Po schválení a vykonaní zmeny si môžeš prísť po rodný list na ktorúko�
 
 ## Zmena mena a pohlavia
 
-V súčasnosti platí stále [zákon o rodnom čísle](https://www.zakonypreludi.sk/zz/1995-301#p8) kde sa uvádza: *"Ministerstvo vykoná na požiadanie zmenu rodného čísla, na základe lekárskeho posudku o zmene pohlavia osoby."
+V súčasnosti platí stále [zákon o rodnom čísle](https://www.zakonypreludi.sk/zz/1995-301#p8) kde sa uvádza: *"Ministerstvo vykoná na požiadanie zmenu rodného čísla, na základe lekárskeho posudku o zmene pohlavia osoby."*
 S týmto posudkom od psychiatričky môžeš ísť na **rodnú** matriku (nie v trvalom bydlisku!), kde ti zmenu vykonajú.
 Lekársky posudok pre matriku na zmenu rodu by mal mať nasledovné alebo podobné znenie: 
 
