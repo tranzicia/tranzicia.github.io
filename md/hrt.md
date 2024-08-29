@@ -33,8 +33,8 @@ Injekcie sú na Slovensku najbezpečnejší spôsob, ako pre transfem ľudí dos
 
 Na endokrinológii ťa budú testovať zadarmo, približne raz za pol roka, neskôr raz za rok. Ak ti to nestačí, testy sa dajú zaplatiť, ale dostaneš len výsledné čísla. Väčšinou treba vyklikať jednotlivé želané markery v eshope a na všetky zvoliť ten istý čas odberu a miesto. Prípadne napísať, ktoré testy presne chceš a kedy sa dostavíš. Testovať sa dá tu:
 
-- (medirex)[https://www.medirex.sk/vysetrenia]
+- [medirex](https://www.medirex.sk/vysetrenia)
 
-- (synlab)[https://www.eshop-synlab.sk]
+- [synlab](https://www.eshop-synlab.sk)
 
-- (unilabs)[https://sk.unilabs.online/]
+- [unilabs](https://sk.unilabs.online/)
