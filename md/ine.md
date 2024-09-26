@@ -34,6 +34,10 @@ Mgr. Klára Jačková DiS - venuje sa aj špeciálne feminizácii hlasu
 
 - Scinguistics
 
+**Operácie**
+
+Pre porovnanie rôznych súčasných techník pozri [tu](https://slecna.tode.cz/gender/Yeson_VFSRAC_4.jpg). Operácia v Kórei s technikou Yeson VFSRAC u chirurga Hyung-Tae Kim, stojí okolo $9000. Neprepláca ju poisťovňa. 
+
 ## Podpora
 
 [Pastelky discord server CZ/SK](https://disboard.org/server/977619549220388944)

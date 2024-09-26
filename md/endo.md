@@ -7,6 +7,8 @@ Ak preferuješ, môžeš sa rovno objednať k tým lekárom, ktorí nastavujú h
 
 Ak užívaš hormonálnu antikoncepciu, poraď sa pri objednávaní na vyšetrenie, že či ju máš vysadiť a kedy.
 
+Ak užívaš DIY, je potrebné ich pred prvým vyšetrením na nejaký čas vysadiť, lebo všetci endokrinológovia na Slovensku chcú vidieť pôvodné hodnoty bez HRT.
+
 ## Poskytovatelia - aj s hormonálnou liečbou
 
 [MUDr. Jana Kollerová](https://endokrinologiaraca.wordpress.com/){.pixel-button-smol}  

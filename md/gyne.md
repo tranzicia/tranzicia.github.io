@@ -35,4 +35,4 @@
 &emsp;**Bratislava**  
 &emsp;MUDr. Michaela Fellnerová  
 &emsp;Záporožská 12  
-
+&emsp;vyšetrenie stojí 40-50eur, nepríjemný prístup  
