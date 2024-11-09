@@ -5,6 +5,15 @@ Na úvodnom vyšetrení vám psychiatrička položí niekoľko otázok ohľadne 
 
 ## Lekári
 
+[MUDr. Mária Matisová](https://vysetrenie.zoznam.sk/ambulancia/3964/mudr-maria-matisova){.pixel-button-smol}  
+
+&emsp;**Bratislava**  
+&emsp;Saratovská 24  
+&emsp;02 643 676 30  
+&emsp;Na poisťovňu, čakací čas cca dva mesiace, veľmi dobré referencie
+
+* * *
+
 [MUDr. Katarína Gallová](https://mudr-katarina-gallova.zdravotniregistr.cz/?msgid=dascd){.pixel-button-smol}  
 
 &emsp;**Senec**  
