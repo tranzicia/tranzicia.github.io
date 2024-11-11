@@ -17,8 +17,8 @@ Ak užívaš DIY, je potrebné ich pred prvým vyšetrením na nejaký čas vysa
 &emsp;Tbiliská 7711/6  
 &emsp;EndoHep s.r.o.  
 &emsp;endokrinologia.raca@gmail.com   
-&emsp;Čakacia doba na termín cca. 3 mesiace  
-&emsp;Pri prvom objednávaní treba ihneď spomenúť, že si transrodový človek a riešiš začatie hormonálnej liečby. Lekárka všeobecne neberie nových pacientov pokiaľ nie sú z Rače, avšak transrodoví ľudia sú výnimka. Ak užívaš hormonálnu antikoncepciu, poraď sa pri objednávaní na vyšetrenie, že či ju máš vysadiť a kedy.
+&emsp;Čakacia doba na termín cca. 2 mesiace  
+&emsp;Pri prvom objednávaní treba ihneď spomenúť, že si transrodový človek a riešiš začatie hormonálnej liečby. Lekárka všeobecne neberie nových pacientov pokiaľ nie sú z Rače, avšak transrodoví ľudia sú výnimka. Ak užívaš hormonálnu antikoncepciu, poraď sa pri objednávaní na vyšetrenie, že či ju máš vysadiť a kedy. Cena za prvé objednanie je 40 eur.
 
 * * *
 
