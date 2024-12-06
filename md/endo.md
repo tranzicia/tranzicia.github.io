@@ -1,7 +1,7 @@
 # Endokrinológia
 
 ## Ako to prebieha
-V rámci diagnostiky treba klasické endokrinologické vyšetrenie, ktoré môže vykonať hociktorý endokrinológ. Vezme sa krv, urobí sa USG štítnej žľazy, rozhovor o zdravotnom stave.
+V rámci diagnostiky treba klasické endokrinologické vyšetrenie, ktoré môže vykonať hociktorý endokrinológ. Vezme sa krv, urobí sa USG štítnej žľazy, rozhovor o zdravotnom stave. U niektorých endokrinológov sa treba pripraviť na úplné obnaženie (Kollerová, potencionálne aj Kalafutová).
 
 Ak preferuješ, môžeš sa rovno objednať k tým lekárom, ktorí nastavujú hormonálnu liečbu.
 
