@@ -16,7 +16,7 @@ V nemocnici stráviš 1 - 3 dni a po operácii sa zotavíš do 2 týždňov, cvi
 &emsp;**Košice**  
 &emsp;Rastislavova 43  
 &emsp;IV. pavilón, prízemie  
-&emsp;na priamu platbu (zrušili možnosť cez poisťovňu) cena bude od 2000Eur a viac  
+&emsp;na priamu platbu, cena od 2000Eur a viac  
 &emsp;plastikake@unlp.sk  
 &emsp;055/615 2624  
 
@@ -31,8 +31,8 @@ V nemocnici stráviš 1 - 3 dni a po operácii sa zotavíš do 2 týždňov, cvi
 &emsp;02/48 252 300 - recepcia  
 &emsp;na priamu platbu  
 &emsp;podpíše sa informovaný súhlas o odstánení prsníkov   
-&emsp;nevyžaduje sa potvrdenie o diagnóze F64.0  
-&emsp;MUDr. Šimko odkazuje na nemocnicu Ružinov, ak to chceš cez poisťovňu  
+&emsp;~~nevyžaduje sa potvrdenie o diagnóze F64.0~~ (podľa posledných informácií už diagnózu potrebuje)  
+&emsp;MUDr. Šimko odkazuje na nemocnicu Ružinov, ak chceš cez poisťovňu  
 
 * * *
 
