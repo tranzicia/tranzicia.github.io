@@ -2,14 +2,14 @@
 
 ## Poskytovatelia
 
-[ProCare MUDr. Mária Kubalová](https://pentahospitals.sk/ambulancia/gynekologicko-porodnicka-ambulancia-procare-nitra/){.pixel-button-smol}  
+[MUDr. Mária Kubalová](https://g.co/kgs/y5ztA7Y){.pixel-button-smol}  
 
-&emsp;**Nitra**   
-&emsp;Poliklinike Procare  
-&emsp;Fatranská 5  
-&emsp;maria.kubalova@procare.sk  
-&emsp;0907 888 999  
-&emsp;V call centre netreba nič vysvetľovať, stačí sa objednať ku pani doktorke na gynekologické vyšetrenie. Ak niekto hľadá dlhodobú gynekologickú starostlivosť, je to preplácané poisťovňou. V prípade jednorazového vyšetrenia je to na priamu platbu.
+&emsp;**Nitra**  
+&emsp;Poliklinika Rázusova  
+&emsp;Rázusova 16  
+&emsp;kubalova.gyn@gmail.com  
+&emsp;0915 737 926  
+&emsp;Na poisťovňu, aj na priamu platbu.  
 
 * * *
 
