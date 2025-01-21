@@ -10,7 +10,7 @@ Na úvodnom vyšetrení vám psychiatrička položí niekoľko otázok ohľadne 
 &emsp;**Bratislava**  
 &emsp;Saratovská 24  
 &emsp;02 643 676 30  
-&emsp;Na poisťovňu, objednáva od Januára nových pacientov, veľmi dobré referencie  
+&emsp;Na poisťovňu, momentálne neberie nových pacientov, treba skúsiť zavolať v marci/apríli, veľmi dobré referencie  
 &emsp;Čakacia doba 3-4 mesiace
 
 * * *
