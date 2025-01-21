@@ -36,15 +36,6 @@ Na úvodnom vyšetrení vám psychiatrička položí niekoľko otázok ohľadne 
 
 * * *
 
-[MUDr. Oľga Jamborová](https://www.unb.sk/psychiatricka-ambulancia-denny-stacionar-podunajske-biskupice/){.pixel-button-smol}  
-
-&emsp;**Bratislava**  
-&emsp;Nemocnica Podunajské Biskupice  
-&emsp;<a>stacionarhestia@zoznam.sk</a>  
-&emsp;+421 905 694 417  
-
-* * *
-
 [Klinika Calma - MUDr. Veronika Režnáková](https://klinikacalma.sk/o-nas/nas-tim/){.pixel-button-smol}
 
 &emsp;**Bratislava**  
