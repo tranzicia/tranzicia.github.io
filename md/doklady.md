@@ -2,7 +2,7 @@
 
 ## Zmena mena na neutrálne
 
-Počas tranzície si môžeš zmeniť meno na neutrálne. Matriky zisťujú či je meno neutrálne podľa stránky babynames.com (matrikárka si to naozaj v kancelárií na tej stránke priamo overí). Zmena na neutrálne meno nie je počas tranzície vyžadovaná.
+Počas tranzície si môžeš zmeniť meno na neutrálne. Matriky zisťujú či je meno neutrálne podľa stránky babynames.com (matrikárka si to naozaj v kancelárií na tej stránke priamo overí), prípadne podľa českých zoznamov https://mv.gov.cz/clanek/seznam-rodove-neutralnich-jmen.aspx. Postup sa mení podľa matriky. Zmena na neutrálne meno nie je počas tranzície vyžadovaná.
 
 Úkon stojí 140eur. Polovicu, ak ho robíš cez elektronické podanie. 
 
