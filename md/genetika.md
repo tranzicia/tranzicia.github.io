@@ -23,6 +23,15 @@ Priprav sa na veľa otázok o tvojich chorobách, operáciách a o tvojej rodine
 
 * * *
 
+[Medirex Bratislava](https://www.medirex.sk/odberove-centra/centralne-laboratorium-bratislava/CL){.pixel-button-smol}  
+
+&emsp;**Bratislava**  
+&emsp;Galvaniho 17/C  
+&emsp;peter.krizan@medirex.sk  
+&emsp;objednať sa dá cez mail, na poisťovňu, čakanie na termín cca 3 týždne  
+
+* * * 
+
 [Unilabs Slovensko](https://www.unilabs.sk/genetika){.pixel-button-smol}  
 
 &emsp;**pobočka Košice**  
