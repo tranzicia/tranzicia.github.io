@@ -36,3 +36,12 @@
 &emsp;MUDr. Michaela Fellnerová  
 &emsp;Záporožská 12  
 &emsp;vyšetrenie stojí 40-50eur, nepríjemný prístup  
+
+* * *
+
+[Gynlife](https://www.gynlife.sk/sk/kontakt){.pixel-button-smol}  
+
+&emsp;**Bratislava**  
+&emsp;MUDr. Katarína Rašlová  
+&emsp;Poliklinika Átrium, Rezedova 5    
+&emsp;ročný poplatok 50eur, inak na poisťovňu  
