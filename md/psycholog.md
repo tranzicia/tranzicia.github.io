@@ -27,7 +27,7 @@ Cena u súkromných poskytovateľov sa pohybuje od 150 do 300eur.
 * * *
 
 [Mgr. Zuzana Adamčíková](https://psycholog-ba.sk/){.pixel-button-smol}  
-&emsp;Momentálne na materskej dovolenke
+&emsp;Momentálne na materskej dovolenke  
 &emsp;**Bratislava**  
 &emsp;Kutuzovova 17  
 &emsp;2. poschodie, č. dverí 11  
@@ -41,6 +41,16 @@ Cena u súkromných poskytovateľov sa pohybuje od 150 do 300eur.
 &emsp;**Bratislava**  
 &emsp;info@psychokonzult.sk  
 &emsp;0907 987 854  
+
+* * *
+
+[Mgr. Kinga Kuráková](https://www.e-vuc.sk/bsk/zdravotnictvo/ambulantne-zdravotnicke-zariadenia/bratislava-i/ambulancia-klinickej-psychologie-mgr.-kinga-kurakova-bratislava-stare-mesto-univerzitna-nemocnica-nemocnica-svateho-michala-a.-s..html?page_id=145341){.pixel-button-smol}  
+
+&emsp;**Bratislava**  
+&emsp;Cintorínska 3/A, 2. poschodie, v budove špecializovanej zdravotnej starostlivosti  
+&emsp;psychologia@nsmas.sk  
+&emsp;02/3261 4076, 0905 428 939  
+&emsp;Na vyšetrenie sa treba objednať telefonicky/ osobne v časoch: Pon- Pia: 07:15 – 07:55 a 14:30 – 15:00.  
 
 * * *
 
