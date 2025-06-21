@@ -19,9 +19,42 @@ Po schválení a vykonaní zmeny si môžeš prísť po rodný list na ktorúko�
 
 V súčasnosti platí stále [zákon o rodnom čísle](https://www.zakonypreludi.sk/zz/1995-301#p8) kde sa uvádza: *"Ministerstvo vykoná na požiadanie zmenu rodného čísla, na základe lekárskeho posudku o zmene pohlavia osoby."*
 S týmto posudkom od psychiatričky môžeš ísť na **rodnú** matriku (nie v trvalom bydlisku!), kde ti zmenu vykonajú.
-Lekársky posudok pre matriku na zmenu rodu by mal mať nasledovné alebo podobné znenie: 
+Lekársky posudok pre matriku na zmenu rodu by mal mať toto znenie (aktualizované 2025):
 
-**Meno, r.č. 0000000, je v odbornej psychiatrickej starostlivosti od 00/00/00 ako FtM / MtF transsexualizmus. U pacienta / pacientky je plne indikovaná zmena pohlavia zo ženského / mužského pohlavia na mužské / ženské pohlavie a splnil/a na túto zmenu náležité predpoklady a podmienky. FtM / MtF transrodový stav je u pacienta / pacientky trvalý a nezvratný. Na základe toho odporúčam administratívnu zmenu osobných údajov respektíve rodného čísla a rodového markera.**
+--- 
+
+**Lekársky posudok o zmene pohlavia osoby**
+
+Údaje o osobe, ktorá predkladá matrike žiadosť o zmenu rodného čísla podľa osobitného predpisu a písomné vyhlásenie na zmenu mena a priezviska podľa osobitného predpisu:
+
+Meno a priezvisko:
+
+Dátum narodenia:
+
+Rodné číslo:
+
+Biologické pohlavie, ktoré bolo stanovené na základe vonkajších pohlavných znakov, pohlavných orgánov, prípadne podľa karyotypu pri narodení:
+
+Miesto narodenia:
+
+Adresa trvalého bydliska:
+
+
+**Záver**: Potvrdzujem, že u menovanej osoby, ktorá je žiadateľom o zmenu právnej identity, zmenou rodného čísla a zmenou mena a priezviska bol/nebol* proces zmeny pohlavia z ženy/muža* na muža/ženu* medicínsky indikovaný a ukončený v požadovanom rozsahu. Medicínske podmienky na administratívnu zmenu pohlavia boli splnené a bol potvrdený nesúlad medzi vnímaným a prežívaným pohlavím biologickým administratívne evidovaným.
+
+Tranzícia je úplná. Transrodový stav je trvalý a nezvratný. Je možné začať úradný proces zmeny pohlavia z mužského/ženského* na mužské/ženské*.
+
+
+............................................
+
+Odtlačok pečiatky ošetrujúceho lekára s označením špecializácie lekára v špecializačnom odbore psychiatria/sexuológia* a podpis ošetrujúceho lekára
+
+
+V .........................dňa ..............................
+
+\* nehodiace prečiarknite
+
+---
 
 V rámci žiadosti treba mať zmenu pohlavia AJ zmenu mena na aké si vyberieš. Matrikárky takéto niečo robia častokrát prvý krát a nevedia ako má žiadosť vyzerať, všetko si dobre skontroluj. Ak chceš nechať neutrálne meno ktoré máš, nemusíš si ho teraz meniť. Na matrike si od teba vypýtajú starý rodný list, ktorý skartujú.
 Nechaj matrikárke svoje číslo alebo mail, ozve sa keď bude zmena hotová. Od tohto bodu nemáš žiadne platné doklady. Preto odporúčam si spraviť notársky overenú kópiu starého rodného listu pred tým než ideš na matriku (cca 2.5eur za stranu) a notársky overenú kópiu starého občianskeho preukazu pred tým než ideš na políciu. Oba tieto doklady ti okamžite zoberú! Kópie sa ti veľmi zídu v inštitúciách kde ťa vedú pod starým rodným číslom (banky, elektrárne, kataster, atď)
