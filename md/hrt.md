@@ -2,7 +2,15 @@
 
 ## Ako sa k nej dostanem
 
-[Postup tranzície je tu](index.html). Po splnení podmienok na psychiatrii dostaneš lístok na endokrinológiu. Ak máš všetky potrebné vyšetrenia (psychiatria, psychodiagnostika, genetika, urológia/gynekológia, úvodné endo vyšetrenie), predpíšu ti HRT. Treba rátať s pravidelnými kontrolami každého pol roka až rok. Hormóny treba užívať pravidelne, aby sa dostavili želané zmeny. Väčšina zmien na estrogéne nie je trvalá, takže ak chceš zmeny zachovať, užívaš hormóny do konca života.
+[Postup tranzície je tu](index.html). Po splnení podmienok na psychiatrii dostaneš lístok na endokrinológiu. Ak máš všetky potrebné vyšetrenia (psychiatria, psychodiagnostika, genetika, urológia/gynekológia, úvodné endo vyšetrenie), predpíšu ti HRT. Celý postup trvá cca rok. Potom treba rátať s pravidelnými kontrolami každého pol roka až rok. Hormóny treba užívať pravidelne, aby sa dostavili želané zmeny. Väčšina zmien na estrogéne nie je trvalá, takže ak chceš zmeny zachovať, užívaš hormóny do konca života.
+
+## Mám aj iné možnosti ako sa k nej oficiálne dostať?
+
+Alternatíva ku Slovenskému gatekeeping postupu je [Imago](https://www.imago.tg/)
+
+Služba Imago ponúka lekársku starostlivosť pre trans ľudí v rámci EU. Poskytuje recepty na HRT (aj papierové) a potvrdenia k operáciám. Služba je platená, 250eur vstupný poplatok, 20eur mesačný. K tomu treba prirátať cenu liekov bez poistenia a cenu vyšetrení krvi, ktoré si treba zabezpečiť v lokálnych samoplatcovských službách (medirex, synlab, unilabs) a ročné vyšetrenie za 60eur. Služba je v rámci EU legálna, ale je otázne nakoľko akceptované budú na Slovensku potvrdenia z tejto služby pre operačné výkony a pre úradné zmeny.
+
+Odporúčam podrobne preštudovať [ich FAQ](https://www.imago.tg/faq/) a [cenník](https://www.imago.tg/services-and-prices/).
 
 ## Čo na Slovensku dostanem?
 Vo všeobecnosti možno očakávať:

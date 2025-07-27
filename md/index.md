@@ -15,6 +15,8 @@ Proces medicínskej a právnej tranzície je na Slovensku možný od 18 rokov. P
 
 Ak máš menej ako 18 rokov, so súhlasom rodiča sa dá dostať pomoc v [CZ](https://jsemtrans.cz/navod/){.pixel-button-smol}
 
+Ak potrebuješ HRT čo najskôr a chceš oficiálne recepty, pozri na [HRT](hrt.html).
+
 <center>
 [Ak ťa zaujíma hormonálna terapia](hrt.html){.pixel-button}
 

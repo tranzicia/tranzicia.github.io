@@ -6,6 +6,8 @@
 
 [Hairless kozmetický salón](https://www.hairless.sk/) (Tomášikova 23/D 82101 Bratislava) 
 
+[Jardin de Beauté](https://www.jardindebeaute.sk/) - Bratislava
+
 ## Hlas
 
 ### Feminizácia hlasu

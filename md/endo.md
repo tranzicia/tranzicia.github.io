@@ -28,7 +28,7 @@ Ak užívaš DIY, je potrebné ich pred prvým vyšetrením na nejaký čas vysa
 &emsp;Švabinského 15 a 17  
 &emsp;Endokrinológia s.r.o.  
 &emsp;sestricka@endokrinologiasro.sk  
-&emsp;Čakacia doba na termín 7-8 mesiacov. Poplatok za každé stretnutie, ktoré je dohodnuté na konkrétny čas (10 eur)
+&emsp;Čakacia doba na termín 2 mesiace. Poplatok za každé stretnutie, ktoré je dohodnuté na konkrétny čas (10 eur)
 
 * * *
 
@@ -38,7 +38,7 @@ Ak užívaš DIY, je potrebné ich pred prvým vyšetrením na nejaký čas vysa
 &emsp;Námestie Ludvíka Svobodu č.21   
 &emsp;Gamamed  
 &emsp;048/423 20 06  
-&emsp;čakacia doba 8 mesiacov  
+&emsp;čakacia doba 3 mesiace 
 
 * * *
 
