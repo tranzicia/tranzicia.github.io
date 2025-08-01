@@ -91,16 +91,6 @@ Cena u súkromných poskytovateľov sa pohybuje od 150 do 300eur.
 
 * * *
 
-[PhDr. Karin Štiffelová](https://www.caryn.sk/){.pixel-button-smol}  
-
-&emsp;**Spišská Nová Ves**  
-&emsp;cez poisťovňu  
-&emsp;Letecká ulica č. 40  
-&emsp;caryn@caryn.sk  
-&emsp;0903 935 744  
-
-* * *
-
 [Mgr. Alexandra a Mgr. Katarína Trošoková](https://www.nemocnicapp.sk/ambulancie-oddelenia/ambulancie/ambulancia-klinickej-psychologie){.pixel-button-smol}  
 
 &emsp;**Poprad**  
