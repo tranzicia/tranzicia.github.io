@@ -15,6 +15,26 @@ Na úvodnom vyšetrení vám psychiatrička položí niekoľko otázok ohľadne 
 
 * * *
 
+[MUDr. Katarína Sigmundová](https://zdravoteka.sk/lekari/mudr-katarina-sigmundova/){.pixel-button-smol}  
+
+&emsp;**Bratislava**  
+&emsp;Poliklinika Mlynská dolina, s.r.o. Staré grunty 56  
+&emsp;+421 911 392 220, +421 910 911 230  
+&emsp;súkromná ambulancia, bez zmluvy s poisťovňou. Cena 70eur za sedenie.  
+&emsp;nový kontakt, nemáme zatiaľ veľa informácii, napíšte vaše skúsenosti prosím na [tranziciask@protonmail.com](mailto:tranziciask@protonmail.com)
+
+* * *
+
+[MUDr. Marek Valent](https://www.fnspfdr.sk/pracoviska/kliniky-a-oddelenia-fnsp-f-d-r-banska-bystrica/kliniky/ii-psychiatricka-klinika-szu/){.pixel-button-smol} 
+
+&emsp;**Banská Bystrica**  
+&emsp;Fakultná Nemocnica s poliklinikou F.D. Roosvelta  
+&emsp;II. Psychiatrická klinika   
+&emsp;nový kontakt, nemáme zatiaľ veľa informácii, kolega MUDr. Pataráka.  
+&emsp;zrejme treba volať sestre na kliniku a pýtať si tohto lekára, napíšte prosím vaše skúsenosti na [tranziciask@protonmail.com](mailto:tranziciask@protonmail.com)
+
+* * *
+
 [MUDr. Barbora Vašečková](https://www.e-vuc.sk/buxus/generate_page.php?page_id=65025){.pixel-button-smol}  
 
 &emsp;**Bratislava**  
