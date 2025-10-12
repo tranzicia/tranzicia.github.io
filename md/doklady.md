@@ -1,5 +1,25 @@
 # Doklady
 
+## Zmena ústavy
+**Aktualizované v októbri 2025**
+
+Do 1.11.2025 platia staré pravidlá, potom začne platiť nová ústava a je možné, že všetky žiadosti budú odmietané a súdne konania budú zložitejšie! Ak vám aj žiadosť podanú do 11.1.2025 odmietnu, bude sa súdiť po starom a jednoduchšie!
+
+Ak vám nevybavia žiadosť o zmenu rodného čísla pýtajte si rozhodnutie písomne. Ak odmietnu aj to podajte na mieste túto žiadosť:
+
+Dňa \[dátum\] som na Matričnom úrade [názov obce/mesta] podal/a žiadosť o zmenu rodného čísla v zmysle zákona č. 301/1995 Z. z. o rodnom čísle, na základe doloženého lekárskeho posudku o zmene pohlavia.
+
+Príslušný pracovník mi ústne oznámil, že žiadosti nebude vyhovené.
+
+Týmto žiadam o vydanie písomného rozhodnutia v zmysle § 46 a nasl. zákona č. 71/1967 Zb. Správny poriadok, aby som mohol/la využiť riadne opravné prostriedky.
+
+S pozdravom
+\[meno, adresa, dátum, podpis\]
+
+Vytlačte si túto žiadosť dva krát a jednu (svoju kópiu) si nechajte potvrdiť.
+
+**Do dvoch mesiacov od vydania rozhodnutia ho treba namietať súdnou cestou!**
+
 ## Zmena mena na neutrálne
 
 Počas tranzície si môžeš zmeniť meno na neutrálne. Matriky zisťujú či je meno neutrálne podľa stránky babynames.com (matrikárka si to naozaj v kancelárií na tej stránke priamo overí), prípadne podľa českých zoznamov https://mv.gov.cz/clanek/seznam-rodove-neutralnich-jmen.aspx. Postup sa mení podľa matriky. Zmena na neutrálne meno nie je počas tranzície vyžadovaná.
