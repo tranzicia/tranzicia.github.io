@@ -25,16 +25,6 @@ Urologické vyšetrenie s ultrazvukom a niekedy aj s vyšetrením prostaty. Vä�
 
 * * *
 
-[URO Centrum TT](https://fntt.sk/team/mudr-marian-cvik-phd/){.pixel-button-smol}  
-
-&emsp;**Trnava**  
-&emsp;MUDr. Marián Cvik  
-&emsp;A. Žarnova 11  
-&emsp;marian.cvik@fntt.sk  
-&emsp;+421 33 5938 883  
-
-* * *
-
 [MUDr. Martin Hrivňák PhD. Urológ - sexuológ](https://andrologia.sk/){.pixel-button-smol}  
 
 &emsp;**Košice**  
