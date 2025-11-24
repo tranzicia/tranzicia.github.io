@@ -7,7 +7,6 @@
 &emsp;**Nitra**  
 &emsp;Poliklinika Rázusova  
 &emsp;Rázusova 16  
-&emsp;kubalova.gyn@gmail.com  
 &emsp;0915 737 926  
 &emsp;Na poisťovňu, aj na priamu platbu.  
 
