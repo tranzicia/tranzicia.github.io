@@ -9,6 +9,8 @@ V nemocnici stráviš 1 - 3 dni a po operácii sa zotavíš do 2 týždňov, cvi
 
 Čo sa týka nadváhy, je to problém pre anesteziológa a nie pre plastického chirurga, čiže pri anstéze je BMI nad 40 rizikové.
 
+Niektoré poisťovne zákrok preplácajú.
+
 ## Zoznam chirurgických ambulancií
 
 [MUDr. Zuzana Hojstričová](https://www.unlp.sk/ambulancia/ambulancia-plastickej-chirurgie-c-1/){.pixel-button}
@@ -53,6 +55,14 @@ V nemocnici stráviš 1 - 3 dni a po operácii sa zotavíš do 2 týždňov, cvi
 &emsp;fabry@posoniumclinic.sk  
 &emsp;02/44 441 650  
 &emsp;0903 435 728  
+
+* * *
+
+[klinika plastickej chirurgie F. D. Roosvelta Banská Bystrica](https://www.fnspfdr.sk/pracoviska/kliniky-a-oddelenia-fnsp-f-d-r-banska-bystrica/kliniky/klinika-plastickej-chirurgie-szu/)
+
+&emsp;**Banská Bystrica**  
+&emsp;na priamu platbu a na poisťovňu  
+&emsp;cena okolo 1600eur  
 
 * * *
 

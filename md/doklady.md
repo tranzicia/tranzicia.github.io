@@ -1,9 +1,8 @@
 # Doklady
 
 ## Zmena ústavy
-**Aktualizované v októbri 2025**
-
-Do 1.11.2025 platia staré pravidlá, potom začne platiť nová ústava a je možné, že všetky žiadosti budú odmietané a súdne konania budú zložitejšie! Ak vám aj žiadosť podanú do 11.1.2025 odmietnu, bude sa súdiť po starom a jednoduchšie!
+**Aktualizované v decembri 2025**
+Stále sa oplatí skúšať zmeniť doklady, prípadne to riešiť súdnou cestou!
 
 Ak vám nevybavia žiadosť o zmenu rodného čísla pýtajte si rozhodnutie písomne. Ak odmietnu aj to podajte na mieste túto žiadosť:
 
