@@ -58,7 +58,8 @@ Cena u súkromných poskytovateľov sa pohybuje od 150 do 300eur.
 
 &emsp;**Pobočky v Bratislave, Senci, Myjave, Stupave**  
 &emsp;niekoľko sedení, veľký gatekeeping, nepríjemné otázky na sexualitu  
-&emsp;300+eur  
+&emsp;pretrvávajúce veľmi negatívne skúsenosti, neodporúčame  
+&emsp;350+eur  
 
 * * *
 
