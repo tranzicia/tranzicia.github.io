@@ -30,7 +30,8 @@ Na úvodnom vyšetrení vám psychiatrička položí niekoľko otázok ohľadne 
 &emsp;Fakultná Nemocnica s poliklinikou F.D. Roosvelta  
 &emsp;II. Psychiatrická klinika   
 &emsp;nový kontakt, nemáme zatiaľ veľa informácii, kolega MUDr. Pataráka.  
-&emsp;zrejme treba volať sestre na kliniku a pýtať si tohto lekára, napíšte prosím vaše skúsenosti na [tranziciask@protonmail.com](mailto:tranziciask@protonmail.com)
+&emsp;zrejme treba volať sestre na kliniku a pýtať si tohto lekára, napíšte prosím vaše skúsenosti na [tranziciask@protonmail.com](mailto:tranziciask@protonmail.com)  
+&emsp;jeho kapacita je už zrejme naplnená  
 
 * * *
 
@@ -41,6 +42,7 @@ Na úvodnom vyšetrení vám psychiatrička položí niekoľko otázok ohľadne 
 &emsp;Prízemie, miestnosti č. 05 06  
 &emsp;Špitálska 2183/9   
 &emsp;+421 903 436 869   
+&emsp;berie len málokedy   
 
 * * *
 
