@@ -19,15 +19,6 @@
 &emsp;na priamu platbu  
 
 * * *
-​
-[Mediconet](https://mediconet.sk/){.pixel-button-smol}  
-
-&emsp;**Bratislava**  
-&emsp;MUDr. Jana Černáková  
-&emsp;Heydukova 14  
-&emsp;na priamu platbu, ak máš zaplatenú celoročnú starostlivosť, gynekológia je zahrnutá v balíku  
-
-* * *
 
 [Femme](http://www.femmesro.sk/){.pixel-button-smol}  
 
