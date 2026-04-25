@@ -19,7 +19,7 @@ Na úvodnom vyšetrení vám psychiatrička položí niekoľko otázok ohľadne 
 &emsp;**Bratislava**  
 &emsp;Poliklinika Mlynská dolina, s.r.o. Staré grunty 56  
 &emsp;+421 911 392 220, +421 910 911 230  
-&emsp;súkromná ambulancia, bez zmluvy s poisťovňou. Cena 70eur za sedenie.  
+&emsp;súkromná ambulancia, zmluvy s poisťovňou, ale cena 120eur za prvé vyšetrenie a 85 eur za ďalšie sedenie.  
 &emsp;nový kontakt, nemáme zatiaľ veľa informácii, napíšte vaše skúsenosti prosím na [tranziciask@protonmail.com](mailto:tranziciask@protonmail.com)
 
 * * *
