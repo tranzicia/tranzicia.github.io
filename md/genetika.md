@@ -34,6 +34,8 @@ Priprav sa na veľa otázok o tvojich chorobách, operáciách a o tvojej rodine
 
 [Unilabs Slovensko](https://www.unilabs.sk/genetika){.pixel-button-smol}  
 
+- POZOR: veľmi dlhé čakacie doby na výsledky, až vyše pol roka!
+
 &emsp;**pobočka Košice**  
 &emsp;Gorkého 8  
 &emsp;genetika.ke@unilabs.sk  
