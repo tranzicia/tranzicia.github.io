@@ -15,13 +15,13 @@ Na úvodnom vyšetrení vám psychiatrička položí niekoľko otázok ohľadne 
 
 * * *
 
-[Mudr. René Pospíšil](https://www.topdoktor.sk/doktor/psychiater/bratislavsky-kraj/svaty-jur/16238-mudr-rene-pospisil)
+[Mudr. René Pospíšil](https://www.topdoktor.sk/doktor/psychiater/bratislavsky-kraj/svaty-jur/16238-mudr-rene-pospisil){.pixel-button-smol}  
 
 &emsp;**Svätý Jur**  
 &emsp;Muškátová 2042/2 poschodie 1, dvere č. 2.04b  
 &emsp;+421 2 20 74 41 60  
 &emsp;súkromná ambulancia, platí sa 150 eur za prvé vyšetrenie a 50 eur za kontrolné vyšetrenie  
-&emsp;nový kontakt, nemáme zatiaľ veľa informácii, napíšte vaše skúsenosti prosím na [tranziciask@protonmail.com](mailto:tranziciask@protonmail.com)
+&emsp;nový kontakt, nemáme zatiaľ veľa informácii, napíšte vaše skúsenosti prosím na [tranziciask@protonmail.com](mailto:tranziciask@protonmail.com)  
 
 * * *
 
