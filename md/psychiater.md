@@ -5,21 +5,22 @@ Na úvodnom vyšetrení vám psychiatrička položí niekoľko otázok ohľadne 
 
 ## Lekári
 
-[MUDr. Mária Matisová](https://vysetrenie.zoznam.sk/ambulancia/3964/mudr-maria-matisova){.pixel-button-smol}  
-
-&emsp;**Bratislava**  
-&emsp;Saratovská 24  
-&emsp;02 643 676 30  
-&emsp;Na poisťovňu, momentálne neberie nových pacientov, ale oplatí sa skúsiť zavolať, veľmi dobré referencie  
-
-* * *
-
 [MUDr. Katarína Sigmundová](https://zdravoteka.sk/lekari/mudr-katarina-sigmundova/){.pixel-button-smol}  
 
 &emsp;**Bratislava**  
 &emsp;Poliklinika Mlynská dolina, s.r.o. Staré grunty 56  
 &emsp;+421 911 392 220, +421 910 911 230  
 &emsp;súkromná ambulancia, zmluvy s poisťovňou, ale cena 110 eur za prvé vyšetrenie a 70 eur za ďalšie sedenie.  
+&emsp;nový kontakt, nemáme zatiaľ veľa informácii, napíšte vaše skúsenosti prosím na [tranziciask@protonmail.com](mailto:tranziciask@protonmail.com)
+
+* * *
+
+[Mudr. René Pospíšil](https://www.topdoktor.sk/doktor/psychiater/bratislavsky-kraj/svaty-jur/16238-mudr-rene-pospisil)
+
+&emsp;**Svätý Jur**  
+&emsp;Muškátová 2042/2 poschodie 1, dvere č. 2.04b  
+&emsp;+421 2 20 74 41 60  
+&emsp;súkromná ambulancia, platí sa 150 eur za prvé vyšetrenie a 50 eur za kontrolné vyšetrenie  
 &emsp;nový kontakt, nemáme zatiaľ veľa informácii, napíšte vaše skúsenosti prosím na [tranziciask@protonmail.com](mailto:tranziciask@protonmail.com)
 
 * * *

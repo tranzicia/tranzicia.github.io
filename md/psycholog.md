@@ -66,7 +66,6 @@ Cena u súkromných poskytovateľov sa pohybuje od 150 do 300eur.
 [Psychemedica - Mgr. Lukáš Vaško, PhD.](https://www.psychemedica.sk/){.pixel-button-smol}  
 
 &emsp;**Trnava**  
-&emsp;nový poskytovateľ, nemáme zozbierané žiadne skúsenosti, ak máte skúsenosť s týmto lekárom, prosím napíšte na [tranziciask@protonmail.com](mailto:tranziciask@protonmail.com)  
 &emsp;Nám. J. Herdu 1 Trnava miestnosť 206 a 211  
 &emsp;0914 44 55 11  
 &emsp;psycholog@psychemedica.sk  
@@ -91,15 +90,6 @@ Cena u súkromných poskytovateľov sa pohybuje od 150 do 300eur.
 &emsp;e.pisarova@gmail.com  
 &emsp;037 65 32 158  
 &emsp;0903 926 795  
-
-* * *
-​
-[Mgr. Oľga Tomišová](https://www.zzz.sk/zariadenie/3034-psychologicka-ambulancia-mgr-olga-tomisova){.pixel-button-smol}  
-
-&emsp;**Malacky**  
-&emsp;cez poisťovňu  
-&emsp;Malé námestie 32  
-&emsp;0908 301 954  
 
 * * *
 
