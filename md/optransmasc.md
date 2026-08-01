@@ -58,7 +58,7 @@ Niektoré poisťovne zákrok preplácajú.
 
 * * *
 
-[klinika plastickej chirurgie F. D. Roosvelta Banská Bystrica](https://www.fnspfdr.sk/pracoviska/kliniky-a-oddelenia-fnsp-f-d-r-banska-bystrica/kliniky/klinika-plastickej-chirurgie-szu/)
+[klinika plastickej chirurgie F. D. Roosvelta Banská Bystrica](https://www.fnspfdr.sk/pracoviska/kliniky-a-oddelenia-fnsp-f-d-r-banska-bystrica/kliniky/klinika-plastickej-chirurgie-szu/){.pixel-button}
 
 &emsp;**Banská Bystrica**  
 &emsp;na priamu platbu a na poisťovňu  

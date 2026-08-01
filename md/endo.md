@@ -100,4 +100,13 @@ Ak užívaš DIY, je potrebné ich pred prvým vyšetrením na nejaký čas vysa
 &emsp;**Žilina**   
 &emsp;M.R.Štefánika 822/11  
 &emsp;041/ 40 000 50 volať od 9:00 do 11:00  
-&emsp;jancuchova.ambulancia@gmail.com  
+&emsp;jancuchova.ambulancia@gmail.com
+
+* * *
+
+[MUDr. Ivana Jochmanová](){.pixel-button-smol}  
+
+&emsp;**Košice**  
+&emsp;Univerzitná nemocnica L. Pasteura, Trieda SNP 1  
+&emsp;055/640 3502, volať medzi 14:00 - 14:30    
+&emsp;Nová poskytovateľka, prosím napíšte vaše skúsenosti na [tranziciask@protonmail.com](mailto:tranziciask@protonmail.com)  
