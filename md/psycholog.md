@@ -66,10 +66,10 @@ Cena u súkromných poskytovateľov sa pohybuje od 150 do 300eur.
 [Psychemedica - Mgr. Lukáš Vaško, PhD.](https://www.psychemedica.sk/){.pixel-button-smol}  
 
 &emsp;**Trnava**  
-&emsp;Nám. J. Herdu 1 Trnava miestnosť 206 a 211  
+&emsp;Štefánikova 21 Trnava, Budova Maxplaza, 1. poschodie  
 &emsp;0914 44 55 11  
 &emsp;psycholog@psychemedica.sk  
-&emsp;100-150eur  
+&emsp;na poisťovňu  
 
 * * *
 
