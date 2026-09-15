@@ -15,6 +15,16 @@ Na úvodnom vyšetrení vám psychiatrička položí niekoľko otázok ohľadne 
 
 * * *
 
+[MUDr. Lukáš Lalinský](https://animo.sk/){.pixel-button-smol}  
+
+&emsp;**Bratislava**  
+&emsp;Saratovská 223/24, Bratislava - Dúbravka  
+&emsp;súkromná ambulancia, zmluvy s poisťovňou, ale cena 200 eur za prvé vyšetrenie.  
+&emsp;objednávanie online na stránke https://animo.sk/#rezervacia  
+&emsp;nový kontakt, nemáme zatiaľ veľa informácii, napíšte vaše skúsenosti prosím na [tranziciask@protonmail.com](mailto:tranziciask@protonmail.com)
+
+* * *
+
 [Mudr. René Pospíšil](https://www.topdoktor.sk/doktor/psychiater/bratislavsky-kraj/svaty-jur/16238-mudr-rene-pospisil){.pixel-button-smol}  
 
 &emsp;**Svätý Jur**  

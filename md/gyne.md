@@ -12,6 +12,16 @@
 
 * * *
 
+[MUDr. Renata Štefániková](https://www.prvazenska.sk/nas-tim/mudr-renata-stefanikova){.pixel-button-smol}  
+
+&emsp;**Bratislava**  
+&emsp;Univerzitná nemocnica Bratislava  
+&emsp;Antolská č. 11, Budova polikliniky, 1. poschodie, č.d. 017  
+&emsp;+421 940 272 151  
+&emsp;Treba si vypýtať termín priamo u tejto lekárky, keďže pracuje v zdieľanej ambulancii.  
+
+* * *
+
 [Sanatórium KOCH](https://www.sanatoriumkoch.sk/){.pixel-button-smol}  
 
 &emsp;**Bratislava**  
