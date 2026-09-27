@@ -12,7 +12,8 @@ Urologické vyšetrenie s ultrazvukom a niekedy aj s vyšetrením prostaty. Vä�
 &emsp;Vajnorská 40  
 &emsp;info@urocentrum.sk  
 &emsp;0904 890 601  
-
+&emsp;30eur za vyšetrenie  
+&emsp;vyšetrenie je v poriadku, ale môžete zažiť necitlivé komentáre  
 * * *
 
 [Uroplus](https://uroplus.sk/){.pixel-button-smol}  

@@ -25,7 +25,7 @@ Počas tranzície si môžeš zmeniť meno na neutrálne. Matriky zisťujú či 
 
 Úkon stojí 140eur. Polovicu, ak ho robíš cez elektronické podanie. 
 
-Psychiatrička ti vystaví papier s žiadosťou, aby tento výkon urobili, ten si budú na úrade pýtať.
+Psychiatrička ti vystaví papier s žiadosťou, aby tento výkon urobili, ten si budú na úrade pýtať. [Dá sa aj bez papiera na iné dôvody](https://www.minv.sk/?matrika-zmena-mena-a-priezviska), ale posúdenie a schválenie závisí od matriky. 
 
 Ak chceš využiť túto možnosť, musíš mať aktivovaný občiansky preukaz s čipom a príslušným PUK kódom, čítačku kariet (dá sa kúpiť v elektre) a prístup do slovensko.sk. [Link na žiadosť](https://portal.minv.sk/wps/wcm/connect/sk/site/main/zivotne-situacie/matrika-zivotna-udalost/ziadost-zmena-mena-priezviska-ine+zmeny-opravy/podanie-ziadosti-o-zmenu-mena-zmenu-rodneho-priezviska/).
 
