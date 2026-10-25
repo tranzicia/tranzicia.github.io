@@ -42,7 +42,7 @@ Ak užívaš DIY, je potrebné ich pred prvým vyšetrením na nejaký čas vysa
 
 * * *
 
-[MUDr. Eva Némethová](https://www.e-vuc.sk/ttsk/zdravotnictvo/ambulantne-zdravotnicke-zariadenia/dunajska-streda/endokrinologicka-ambulancia-zlate-klasy-mediprofi.html?page_id=91691)
+[MUDr. Eva Némethová](https://www.e-vuc.sk/ttsk/zdravotnictvo/ambulantne-zdravotnicke-zariadenia/dunajska-streda/endokrinologicka-ambulancia-zlate-klasy-mediprofi.html?page_id=91691){.pixel-button-smol}  
 
 &emsp;**Zlaté Klasy**  
 &emsp;Poštová  778/2  
