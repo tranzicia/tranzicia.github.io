@@ -57,7 +57,7 @@ Na úvodnom vyšetrení vám psychiatrička položí niekoľko otázok ohľadne 
 
 * * *
 
-[Klinika Calma - MUDr. Veronika Režnáková](https://klinikacalma.sk/o-nas/nas-tim/){.pixel-button-smol}
+[Klinika Calma - MUDr. Veronika Režnáková](https://klinikacalma.sk/o-nas/nas-tim/){.pixel-button-smol}  
 
 &emsp;**Bratislava**  
 &emsp;Zochova 6-8  
@@ -65,3 +65,12 @@ Na úvodnom vyšetrení vám psychiatrička položí niekoľko otázok ohľadne 
 &emsp;+421 2 210 123 10  
 &emsp;Na priamu platbu, odporúčanie na HRT vydajú po jednom roku návštev  
 &emsp;Klinika je veľmi drahá, cena sa pohybuje okolo 100eur za sedenie, treba si zistiť dopredu koľko stojí sedenie a  koľko ich bude v rámci roka  
+
+* * *
+
+[MMpsych. s.r.o. - MUDr. Mária Matisová](https://www.mmpsych.sk/#about-me){.pixel-button-smol}  
+
+&emsp;**Bratislava**  
+&emsp;Kukuričná 1, zelená budova, 3. poschodie, číslo dverí 306  
+&emsp;md.matisova@gmail.com  
+&emsp;Na priamu platbu, nemá zmluvy so zdravotnými poisťovňami, vyšetrenia a lieky (plnú cenu) si pacienti hradia sami.  

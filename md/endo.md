@@ -42,6 +42,15 @@ Ak užívaš DIY, je potrebné ich pred prvým vyšetrením na nejaký čas vysa
 
 * * *
 
+[MUDr. Eva Némethová](https://www.e-vuc.sk/ttsk/zdravotnictvo/ambulantne-zdravotnicke-zariadenia/dunajska-streda/endokrinologicka-ambulancia-zlate-klasy-mediprofi.html?page_id=91691)
+
+&emsp;**Zlaté Klasy**  
+&emsp;Poštová  778/2  
+&emsp;+421910616473  
+&emsp;aj maďarsky hovoriaca  
+
+* * *
+
 [MUDr. Simona Ružináková](https://pentahospitals.sk/zamestnanec/mudr-simona-ruzinakova/){.pixel-button-smol}  
 
 &emsp;**Bratislava**  
@@ -49,6 +58,16 @@ Ak užívaš DIY, je potrebné ich pred prvým vyšetrením na nejaký čas vysa
 &emsp;na priamu platbu  
 &emsp;+421 2 3904 9201  
 &emsp;+421 907 888 999​​  
+
+* * *
+
+[doktorpro - MUDr. Beáta Gráfová](https://doktorpro.sk/doctors/beata-grafova){.pixel-button-smol}  
+
+&emsp;**Bratislava**  
+&emsp;klinika doktorpro - Ružinovská 40  
+&emsp;objednať sa na stránke alebo na 0800200000  
+&emsp;na priamu platbu, ceny za jednotlivé vyšetrenia sa líšia, pozri na stránke. Bez zmluvy s poisťovňami, hradíš plnú cenu za lieky  
+&emsp;nový kontakt, nemáme zatiaľ veľa informácii, napíšte vaše skúsenosti prosím na [tranziciask@protonmail.com](mailto:tranziciask@protonmail.com)  
 
 
 ## Len vyšetrenie, nevedia nastaviť hormonálnu liečbu
